@@ -17,7 +17,6 @@
 
 - [📖 Overview](#-overview)
 - [🧠 Experiments](#-experiments)
-- [📂 Project Structure](#-project-structure)
 - [⚙️ Installation](#️-installation)
 - [▶️ Usage](#️-usage)
 - [📊 Outputs](#-outputs)
@@ -35,9 +34,9 @@ This repository contains **Artificial Intelligence lab programs** implemented in
 It focuses on building a strong foundation in AI through practical experiments.
 
 💡 Designed for:
-- Students
-- Beginners in AI/ML
-- Academic lab work
+- Students  
+- Beginners in AI/ML  
+- Academic lab work  
 
 ---
 
@@ -67,91 +66,13 @@ It focuses on building a strong foundation in AI through practical experiments.
 
 ---
 
----
-
 ## ⚙️ Installation
 
 ```bash
 git clone https://github.com/nikshep-root/AI-lab.git
 cd AI-lab
-``` id="k2p91z"
 
----
-
-## ▶️ Usage
-
-Run any Python file:
-
-```bash
-python filename.py
-``` id="p8s2kd"
-
-Example:
-
-```bash
-python exp1_bfs.py
-``` id="l2k91s"
-
----
-
-## 📊 Outputs
-
-Each program provides:
-
-- 📌 Input data/graph
-- 🔄 Step-by-step execution
-- ✅ Final result
-
----
-
-## 🎯 Learning Outcomes
-
-✔ Understand AI search techniques  
-✔ Learn optimization strategies  
-✔ Implement decision-making algorithms  
-✔ Gain practical coding skills  
-
----
-
-## 🛠️ Tech Stack
-
-- Python 🐍
-- Data Structures
-- AI Algorithms
-
----
-
-## 🚀 Future Improvements
-
-- [ ] Add visualizations 📊  
-- [ ] Convert to Jupyter notebooks 📓  
-- [ ] Add real-world datasets 🌍  
-- [ ] Build mini AI projects 🤖  
-
----
-
-## 🤝 Contributing
-
-```bash
-# Fork the repo
-# Create a branch
-git checkout -b feature-name
-
-# Commit changes
-git commit -m "Added new feature"
-
-# Push
-git push origin feature-name
-``` id="m9s2kd"
-
----
-
-## 👤 Author
-
-**Nikshep**  
-🔗 https://github.com/nikshep-root  
-
----
+```
 
 ## ⭐ Support
 
