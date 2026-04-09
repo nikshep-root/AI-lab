@@ -46,21 +46,13 @@ It focuses on building a strong foundation in AI through practical experiments.
 <summary>🔍 Click to expand</summary>
 
 ### 🔹 Search Algorithms
-- Breadth First Search (BFS)
-- Depth First Search (DFS)
+1. **Breadth First Search (BFS)**  
+2. **Depth First Search (DFS)**  
+3. **Iterative Deepening Depth First Search (IDDFS)**  
 
-### 🔹 Informed Search
-- A* Algorithm
-
-### 🔹 Optimization Techniques
-- Hill Climbing
-
-### 🔹 Game Playing
-- Minimax Algorithm
-- Alpha-Beta Pruning
-
-### 🔹 Machine Learning Basics
-- Basic ML implementations
+### 🔹 Robot Simulation Programs
+4. **Simple Reflex Agent (Vacuum Cleaner / Environment-based Agent)**  
+5. **Goal-Based Agent / Environment Navigation Problem**  
 
 </details>
 
