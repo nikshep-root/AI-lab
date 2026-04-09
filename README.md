@@ -74,8 +74,63 @@ cd AI-lab
 
 ```
 
+## ▶️ Usage
+
+Run any Python file:
+
+```bash
+python filename.py
+```
+
+## 📊 Outputs
+
+Each program provides:
+
+📌 Input data / graph
+🔄 Step-by-step execution
+✅ Final result
+
+## 🎯 Learning Outcomes
+
+✔ Understand AI search techniques
+✔ Learn optimization strategies
+✔ Implement decision-making algorithms
+✔ Gain practical coding skills
+
+## 🛠️ Tech Stack
+Python 🐍
+Data Structures
+AI Algorithms
+
+## 🚀 Future Improvements
+ Add visualizations 📊
+ Convert to Jupyter notebooks 📓
+ Add real-world datasets 🌍
+ Build mini AI projects 🤖
+
+ ## 🤝 Contributing
+ ```bash
+# Fork the repo
+# Create a branch
+git checkout -b feature-name
+
+# Commit changes
+git commit -m "Added new feature"
+
+# Push
+git push origin feature-name
+```
+
+## 👤 Author
+
+Nikshep
+```bash
+https://github.com/nikshep-root
+```
+
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
+
 
 
