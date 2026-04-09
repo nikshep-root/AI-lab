@@ -90,33 +90,33 @@ python filename.py
 
 Each program provides:
 
-📌 Input data / graph
-🔄 Step-by-step execution
-✅ Final result
+- 📌 Input data / graph
+- 🔄 Step-by-step execution
+- ✅ Final result
 
 ---
 
 ## 🎯 Learning Outcomes
 
-✔ Understand AI search techniques
-✔ Learn optimization strategies
-✔ Implement decision-making algorithms
-✔ Gain practical coding skills
+- ✔ Understand AI search techniques
+- ✔ Learn optimization strategies
+- ✔ Implement decision-making algorithms
+- ✔ Gain practical coding skills
 
 ---
 
 ## 🛠️ Tech Stack
-Python 🐍
-Data Structures
-AI Algorithms
+- Python 🐍
+- Data Structures
+- AI Algorithms
 
 ---
 
 ## 🚀 Future Improvements
- Add visualizations 📊
- Convert to Jupyter notebooks 📓
- Add real-world datasets 🌍
- Build mini AI projects 🤖
+ - Add visualizations 📊
+ - Convert to Jupyter notebooks 📓
+ - Add real-world datasets 🌍
+ - Build mini AI projects 🤖
 
  ---
 
