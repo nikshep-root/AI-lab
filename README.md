@@ -74,6 +74,8 @@ cd AI-lab
 
 ```
 
+---
+
 ## ▶️ Usage
 
 Run any Python file:
@@ -81,6 +83,8 @@ Run any Python file:
 ```bash
 python filename.py
 ```
+
+---
 
 ## 📊 Outputs
 
@@ -90,6 +94,8 @@ Each program provides:
 🔄 Step-by-step execution
 ✅ Final result
 
+---
+
 ## 🎯 Learning Outcomes
 
 ✔ Understand AI search techniques
@@ -97,10 +103,14 @@ Each program provides:
 ✔ Implement decision-making algorithms
 ✔ Gain practical coding skills
 
+---
+
 ## 🛠️ Tech Stack
 Python 🐍
 Data Structures
 AI Algorithms
+
+---
 
 ## 🚀 Future Improvements
  Add visualizations 📊
@@ -108,7 +118,9 @@ AI Algorithms
  Add real-world datasets 🌍
  Build mini AI projects 🤖
 
- ## 🤝 Contributing
+ ---
+
+## 🤝 Contributing
  ```bash
 # Fork the repo
 # Create a branch
@@ -121,12 +133,14 @@ git commit -m "Added new feature"
 git push origin feature-name
 ```
 
+---
+
 ## 👤 Author
 
 Nikshep
-```bash
-https://github.com/nikshep-root
-```
+🔗 [GitHub Profile](https://github.com/nikshep-root)
+
+---
 
 ## ⭐ Support
 
